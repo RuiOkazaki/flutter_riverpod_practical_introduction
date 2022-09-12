@@ -15,6 +15,7 @@ dependencies:
   flutter_riverpod: ^1.0.4
   shared_preferences: ^2.0.15
   hooks_riverpod: ^1.0.4
+  build_runner: ^2.2.0
 
 dev_dependencies:
   flutter_test:
